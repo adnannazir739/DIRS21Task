@@ -95,6 +95,28 @@ The entry point for the system. It demonstrates registering mappings and perform
 ---
 
 ## **Example Code**
+### Usage Instructions:
+1. Setting Up Dependency Injection:
+   The system requires Microsoft.Extensions.DependencyInjection for its DI setup. Install the package :
+ ```csharp 
+  dotnet add package Microsoft.Extensions.DependencyInjection
+```
+2. Configuring Services :
+   In Startup.cs, configure the services:
+
+```csharp
+using Microsoft.Extensions.DependencyInjection;
+
+public static class Startup
+{
+    public static IServiceProvider ConfigureServices()
+    {
+        var services = new ServiceCollection();
+        services.AddSingleton<IMapHandler, MapHandler>();
+        return services.BuildServiceProvider();
+    }
+}
+```
 ## Performing a Mapping
 
 This section provides a step-by-step example of how to perform a mapping using the system.
@@ -107,6 +129,8 @@ The following example demonstrates how to use the system to map between two mode
 Before performing a mapping, register the source and target types with the `MapHandler`.
 
 ```csharp
+var serviceProvider = Startup.ConfigureServices();
+var mapHandler = serviceProvider.GetService<IMapHandler>();
 mapHandler.RegisterMapping(new Mapping(
     typeof(Reservation).FullName,
     typeof(GoogleReservation).FullName,
@@ -134,6 +158,9 @@ Console.WriteLine($"Mapped GoogleReservation ID: {googleReservation.GoogleBookin
 ### Example Output:
 
 Mapped GoogleReservation ID: 123
+
+
+
 
 
 

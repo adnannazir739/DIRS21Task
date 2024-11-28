@@ -16,3 +16,4 @@ C:\Users\adi_1\OneDrive\Desktop\DIRS21 Task\bin\Debug\net8.0\Microsoft.Extension
 C:\Users\adi_1\OneDrive\Desktop\DIRS21 Task\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
 C:\Users\adi_1\OneDrive\Desktop\DIRS21 Task\obj\Debug\net8.0\DIRS21 Task.csproj.AssemblyReference.cache
 C:\Users\adi_1\OneDrive\Desktop\DIRS21 Task\obj\Debug\net8.0\DIRS21 T.CB8C56C4.Up2Date
+C:\Users\adi_1\OneDrive\Desktop\DIRS21 Task\obj\Debug\net8.0\DIRS21 Task.sourcelink.json

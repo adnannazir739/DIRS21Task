@@ -11,6 +11,7 @@ namespace DynamicMappingSystem
             var mapHandler = serviceProvider.GetService<IMapHandler>();
 
             // Register mappings
+            // Reservation --> GoogleReservation
             mapHandler.RegisterMapping(new Mapping(
                 typeof(Reservation).FullName,
                 typeof(GoogleReservation).FullName,
@@ -19,7 +20,7 @@ namespace DynamicMappingSystem
                     var reservation = (Reservation)data;
                     return new GoogleReservation { GoogleBookingId = reservation.ReservationId };
                 }));
-
+            // GoogleReservation --> Reservation
             mapHandler.RegisterMapping(new Mapping(
                 typeof(GoogleReservation).FullName,
                 typeof(Reservation).FullName,

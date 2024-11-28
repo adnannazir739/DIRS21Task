@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "LlL1wJkcYs0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\adi_1\\OneDrive\\Desktop\\DIRS21 Task\\DIRS21 Task.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\adi_1\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\9.0.0\\microsoft.extensions.dependencyinjection.9.0.0.nupkg.sha512",
+    "C:\\Users\\adi_1\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.0\\microsoft.extensions.dependencyinjection.abstractions.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

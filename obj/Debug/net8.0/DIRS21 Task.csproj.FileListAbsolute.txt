@@ -1,0 +1,18 @@
+C:\Users\adi_1\OneDrive\Desktop\DIRS21 Task\bin\Debug\net8.0\DIRS21 Task.exe
+C:\Users\adi_1\OneDrive\Desktop\DIRS21 Task\bin\Debug\net8.0\DIRS21 Task.deps.json
+C:\Users\adi_1\OneDrive\Desktop\DIRS21 Task\bin\Debug\net8.0\DIRS21 Task.runtimeconfig.json
+C:\Users\adi_1\OneDrive\Desktop\DIRS21 Task\bin\Debug\net8.0\DIRS21 Task.dll
+C:\Users\adi_1\OneDrive\Desktop\DIRS21 Task\bin\Debug\net8.0\DIRS21 Task.pdb
+C:\Users\adi_1\OneDrive\Desktop\DIRS21 Task\obj\Debug\net8.0\DIRS21 Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adi_1\OneDrive\Desktop\DIRS21 Task\obj\Debug\net8.0\DIRS21 Task.AssemblyInfoInputs.cache
+C:\Users\adi_1\OneDrive\Desktop\DIRS21 Task\obj\Debug\net8.0\DIRS21 Task.AssemblyInfo.cs
+C:\Users\adi_1\OneDrive\Desktop\DIRS21 Task\obj\Debug\net8.0\DIRS21 Task.csproj.CoreCompileInputs.cache
+C:\Users\adi_1\OneDrive\Desktop\DIRS21 Task\obj\Debug\net8.0\DIRS21 Task.dll
+C:\Users\adi_1\OneDrive\Desktop\DIRS21 Task\obj\Debug\net8.0\refint\DIRS21 Task.dll
+C:\Users\adi_1\OneDrive\Desktop\DIRS21 Task\obj\Debug\net8.0\DIRS21 Task.pdb
+C:\Users\adi_1\OneDrive\Desktop\DIRS21 Task\obj\Debug\net8.0\DIRS21 Task.genruntimeconfig.cache
+C:\Users\adi_1\OneDrive\Desktop\DIRS21 Task\obj\Debug\net8.0\ref\DIRS21 Task.dll
+C:\Users\adi_1\OneDrive\Desktop\DIRS21 Task\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\adi_1\OneDrive\Desktop\DIRS21 Task\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\adi_1\OneDrive\Desktop\DIRS21 Task\obj\Debug\net8.0\DIRS21 Task.csproj.AssemblyReference.cache
+C:\Users\adi_1\OneDrive\Desktop\DIRS21 Task\obj\Debug\net8.0\DIRS21 T.CB8C56C4.Up2Date

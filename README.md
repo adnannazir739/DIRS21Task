@@ -96,14 +96,15 @@ The entry point for the system. It demonstrates registering mappings and perform
 
 ## **Example Code**
 ### Usage Instructions:
-1. Setting Up Dependency Injection:
+1. Before running the project, ensure that you have .NET SDK installed on your system. 
+2. Setting Up Dependency Injection:
    The system requires Microsoft.Extensions.DependencyInjection for its DI setup. Install the package :
  ```csharp 
   dotnet add package Microsoft.Extensions.DependencyInjection
 ```
-2. Configuring Services :
+3. Configuring Services :
    In Startup.cs, configure the services:
-
+   
 ```csharp
 using Microsoft.Extensions.DependencyInjection;
 
